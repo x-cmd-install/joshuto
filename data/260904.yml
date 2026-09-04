@@ -7,7 +7,7 @@ about:
   head: ac81352
   archived: false
   latestVersion: v0.9.9
-  collectedAt: 2026-09-04T19:29:15Z
+  collectedAt: 2026-09-04T21:04:04Z
 timeline:
   created: 2018-07-13
   lastCommit: 2026-08-20
@@ -83,5 +83,53 @@ total:
   openIssue: 95
   commit: 1457
 ---
+path: /home/runner/.x-repo/github.com/kamiyaa/joshuto
+collectedAt: 2026-09-04T21:04:05Z
+loc:
+  Rust:
+    code: 14627
+    comments: 298
+    blanks: 1901
+    files: 194
+  Toml:
+    code: 906
+    comments: 87
+    blanks: 99
+    files: 9
+  Sh:
+    code: 244
+    comments: 81
+    blanks: 55
+    files: 2
+  Nix:
+    code: 101
+    comments: 0
+    blanks: 12
+    files: 2
+  Bash:
+    code: 44
+    comments: 6
+    blanks: 20
+    files: 6
+  Dockerfile:
+    code: 22
+    comments: 8
+    blanks: 17
+    files: 2
+  Yaml:
+    code: 5
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1077
+    blanks: 453
+    files: 17
+total:
+  code: 16367
+  comments: 2712
+  blanks: 2676
+  files: 233
 ---
 
