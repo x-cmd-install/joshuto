@@ -7,7 +7,7 @@ ranger-like terminal file manager written in Rust
 - **Latest release**: `v0.9.9` (n/a)
 - **Last commit**: 2026-08-20
 - **License**: LGPL-3.0
-- **Stars**: 3723 · **Forks**: 165 · **Open issues**: 310 · **Contributors**: 79
+- **Stars**: 3726 · **Forks**: 165 · **Open issues**: 310 · **Contributors**: 79
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/joshuto> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:09:37Z._
+_Last regenerated: 2026-09-09T20:57:17Z._
