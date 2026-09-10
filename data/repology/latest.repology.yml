@@ -1,0 +1,499 @@
+- repo: altsisyphus
+  srcname: joshuto
+  binnames:
+    - joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: 0.9.9-alt1
+  status: newest
+  summary: ranger-like terminal file manager written in Rust
+  maintainers:
+    - obirvalger@altlinux.org
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Other
+- repo: aur
+  srcname: joshuto
+  binname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: 0.9.9-1
+  status: newest
+  summary: ranger-like terminal file manager written in Rust
+  maintainers:
+    - g3tchoo@aur
+    - hurricanepootis@aur
+  licenses:
+    - LGPL-3.0-only
+- repo: aur
+  srcname: joshuto-bin
+  binname: joshuto-bin
+  visiblename: joshuto-bin
+  version: 0.9.9
+  origversion: 0.9.9-1
+  status: newest
+  summary: ranger-like terminal file manager written in Rust
+  maintainers:
+    - gobidev@aur
+  licenses:
+    - LGPL3
+- repo: aur
+  srcname: joshuto-git
+  binname: joshuto-git
+  visiblename: joshuto-git
+  version: 0.9.9.r13.gea9950b
+  origversion: 0.9.9.r13.gea9950b-2
+  status: rolling
+  summary: ranger-like terminal file manager written in Rust
+  maintainers:
+    - xiota@aur
+  licenses:
+    - LGPL-3.0-only
+- repo: crates_io
+  srcname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: null
+  status: newest
+  summary: Terminal file manager inspired by ranger
+- repo: freebsd
+  srcname: sysutils/joshuto
+  binname: joshuto
+  visiblename: sysutils/joshuto
+  version: 0.9.8
+  origversion: 0.9.8_20
+  status: outdated
+  summary: Ranger-like terminal file manager
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - sysutils
+- repo: homebrew
+  srcname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: null
+  status: newest
+  summary: Ranger-like terminal file manager written in Rust
+- repo: homebrew
+  srcname: joshuto
+  visiblename: joshuto
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Ranger-like terminal file manager written in Rust
+- repo: macports
+  srcname: sysutils/joshuto
+  binname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: null
+  status: newest
+  summary: ranger-like terminal file manager written in Rust
+  maintainers:
+    - judaew@macports
+    - judaew@github
+  licenses:
+    - LGPL-3
+  categories:
+    - sysutils
+- repo: nix_stable_24_05
+  srcname: joshuto
+  visiblename: joshuto
+  version: 0.9.8
+  origversion: null
+  status: outdated
+  summary: Ranger-like terminal file manager written in Rust
+  maintainers:
+    - figsoda@pm.me
+    - git@thym.at
+    - xrelkd@github
+  licenses:
+    - LGPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: joshuto
+  visiblename: joshuto
+  version: 0.9.8-unstable-2024-07-20
+  origversion: null
+  status: outdated
+  summary: Ranger-like terminal file manager written in Rust
+  maintainers:
+    - figsoda@pm.me
+    - git@thym.at
+    - xrelkd@github
+  licenses:
+    - LGPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: joshuto
+  visiblename: joshuto
+  version: 0.9.8-unstable-2024-07-20
+  origversion: null
+  status: outdated
+  summary: Ranger-like terminal file manager written in Rust
+  maintainers:
+    - figsoda@pm.me
+    - git@thym.at
+    - xrelkd@github
+  licenses:
+    - LGPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: null
+  status: newest
+  summary: Ranger-like terminal file manager written in Rust
+  maintainers:
+    - git@thym.at
+    - xrelkd@github
+  licenses:
+    - LGPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: null
+  status: newest
+  summary: Ranger-like terminal file manager written in Rust
+  maintainers:
+    - git@thym.at
+    - xrelkd@github
+  licenses:
+    - LGPL-3.0-only
+- repo: nix_unstable
+  srcname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: null
+  status: newest
+  summary: Ranger-like terminal file manager written in Rust
+  maintainers:
+    - git@thym.at
+    - xrelkd@github
+  licenses:
+    - LGPL-3.0-only
+- repo: rosa_2019_1
+  subrepo: contrib/release
+  srcname: joshuto
+  binnames:
+    - joshuto
+    - joshuto-debuginfo
+    - joshuto-debugsource
+  visiblename: joshuto
+  version: 0.9.5
+  origversion: 0.9.5-1
+  status: outdated
+  summary: Ranger-like terminal file manager written in Rust
+  maintainers:
+    - symbianflo@gmail.com
+  licenses:
+    - LGPLv3
+  categories:
+    - File tools
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: joshuto
+  binnames:
+    - joshuto
+    - joshuto-debuginfo
+    - joshuto-debugsource
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: 0.9.9-1
+  status: newest
+  summary: Ranger-like terminal file manager written in Rust
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - LGPLv3
+  categories:
+    - File tools
+- repo: terra_39
+  srcname: rust-joshuto
+  binname: joshuto
+  visiblename: joshuto
+  version: 0.9.7
+  origversion: 0.9.7-1.fc39
+  status: outdated
+  summary: Terminal file manager inspired by ranger
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Unspecified
+- repo: terra_39
+  srcname: rust-joshuto
+  binname: joshuto
+  visiblename: joshuto
+  version: 0.9.7
+  origversion: 0.9.7-1.fc39
+  status: outdated
+  summary: Terminal file manager inspired by ranger
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Unspecified
+- repo: terra_39
+  srcname: rust-joshuto
+  binname: joshuto-debuginfo
+  visiblename: joshuto-debuginfo
+  version: 0.9.7
+  origversion: 0.9.7-1.fc39
+  status: outdated
+  summary: Debug information for package joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_39
+  srcname: rust-joshuto
+  binname: joshuto-debuginfo
+  visiblename: joshuto-debuginfo
+  version: 0.9.7
+  origversion: 0.9.7-1.fc39
+  status: outdated
+  summary: Debug information for package joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_39
+  srcname: rust-joshuto
+  binname: rust-joshuto-debugsource
+  visiblename: rust-joshuto-debugsource
+  version: 0.9.7
+  origversion: 0.9.7-1.fc39
+  status: outdated
+  summary: Debug sources for package rust-joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_39
+  srcname: rust-joshuto
+  binname: rust-joshuto-debugsource
+  visiblename: rust-joshuto-debugsource
+  version: 0.9.7
+  origversion: 0.9.7-1.fc39
+  status: outdated
+  summary: Debug sources for package rust-joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_40
+  srcname: rust-joshuto
+  binname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: 0.9.9-1.fc40
+  status: newest
+  summary: Terminal file manager inspired by ranger
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Unspecified
+- repo: terra_40
+  srcname: rust-joshuto
+  binname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: 0.9.9-1.fc40
+  status: newest
+  summary: Terminal file manager inspired by ranger
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Unspecified
+- repo: terra_40
+  srcname: rust-joshuto
+  binname: joshuto-debuginfo
+  visiblename: joshuto-debuginfo
+  version: 0.9.9
+  origversion: 0.9.9-1.fc40
+  status: newest
+  summary: Debug information for package joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_40
+  srcname: rust-joshuto
+  binname: joshuto-debuginfo
+  visiblename: joshuto-debuginfo
+  version: 0.9.9
+  origversion: 0.9.9-1.fc40
+  status: newest
+  summary: Debug information for package joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_40
+  srcname: rust-joshuto
+  binname: rust-joshuto-debugsource
+  visiblename: rust-joshuto-debugsource
+  version: 0.9.9
+  origversion: 0.9.9-1.fc40
+  status: newest
+  summary: Debug sources for package rust-joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_40
+  srcname: rust-joshuto
+  binname: rust-joshuto-debugsource
+  visiblename: rust-joshuto-debugsource
+  version: 0.9.9
+  origversion: 0.9.9-1.fc40
+  status: newest
+  summary: Debug sources for package rust-joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_41
+  srcname: rust-joshuto
+  binname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: 0.9.9-1.fc41
+  status: newest
+  summary: Terminal file manager inspired by ranger
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: rust-joshuto
+  binname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: 0.9.9-1.fc41
+  status: newest
+  summary: Terminal file manager inspired by ranger
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: rust-joshuto
+  binname: joshuto-debuginfo
+  visiblename: joshuto-debuginfo
+  version: 0.9.9
+  origversion: 0.9.9-1.fc41
+  status: newest
+  summary: Debug information for package joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_41
+  srcname: rust-joshuto
+  binname: joshuto-debuginfo
+  visiblename: joshuto-debuginfo
+  version: 0.9.9
+  origversion: 0.9.9-1.fc41
+  status: newest
+  summary: Debug information for package joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_41
+  srcname: rust-joshuto
+  binname: rust-joshuto-debugsource
+  visiblename: rust-joshuto-debugsource
+  version: 0.9.9
+  origversion: 0.9.9-1.fc41
+  status: newest
+  summary: Debug sources for package rust-joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_41
+  srcname: rust-joshuto
+  binname: rust-joshuto-debugsource
+  visiblename: rust-joshuto-debugsource
+  version: 0.9.9
+  origversion: 0.9.9-1.fc41
+  status: newest
+  summary: Debug sources for package rust-joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: rust-joshuto
+  binname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: 0.9.9-1.fcrawhide
+  status: newest
+  summary: Terminal file manager inspired by ranger
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: rust-joshuto
+  binname: joshuto
+  visiblename: joshuto
+  version: 0.9.9
+  origversion: 0.9.9-1.fcrawhide
+  status: newest
+  summary: Terminal file manager inspired by ranger
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: rust-joshuto
+  binname: joshuto-debuginfo
+  visiblename: joshuto-debuginfo
+  version: 0.9.9
+  origversion: 0.9.9-1.fcrawhide
+  status: newest
+  summary: Debug information for package joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: rust-joshuto
+  binname: joshuto-debuginfo
+  visiblename: joshuto-debuginfo
+  version: 0.9.9
+  origversion: 0.9.9-1.fcrawhide
+  status: newest
+  summary: Debug information for package joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: rust-joshuto
+  binname: rust-joshuto-debugsource
+  visiblename: rust-joshuto-debugsource
+  version: 0.9.9
+  origversion: 0.9.9-1.fcrawhide
+  status: newest
+  summary: Debug sources for package rust-joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: rust-joshuto
+  binname: rust-joshuto-debugsource
+  visiblename: rust-joshuto-debugsource
+  version: 0.9.9
+  origversion: 0.9.9-1.fcrawhide
+  status: newest
+  summary: Debug sources for package rust-joshuto
+  licenses:
+    - LGPL-3.0
+  categories:
+    - Development/Debug
