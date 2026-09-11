@@ -47,12 +47,12 @@ Total: **15,949** lines of code across **213** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 1 | 0 | 0 | 11 |
-| last60d | 2026-07-12 | 0 | 1 | 1 | 0 | 0 | 12 |
-| 90d | 2026-06-12 | 0 | 3 | 1 | 0 | 1 | 13 |
-| last180d | 2026-03-14 | 0 | 4 | 1 | 1 | 2 | 13 |
-| 360d | 2025-09-15 | 0 | 9 | 1 | 3 | 4 | 21 |
-| last720d | 2024-09-20 | 1 | 22 | 1 | 15 | 15 | 78 |
+| 30d | 2026-08-12 | 0 | 1 | 1 | 0 | 0 | 11 |
+| last60d | 2026-07-13 | 0 | 1 | 1 | 0 | 0 | 12 |
+| 90d | 2026-06-13 | 0 | 3 | 1 | 0 | 1 | 13 |
+| last180d | 2026-03-15 | 0 | 4 | 1 | 1 | 2 | 13 |
+| 360d | 2025-09-16 | 0 | 9 | 1 | 3 | 4 | 21 |
+| last720d | 2024-09-21 | 1 | 22 | 1 | 15 | 15 | 78 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for joshuto lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:29:43Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:02:40Z._
