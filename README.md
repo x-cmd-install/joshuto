@@ -4,7 +4,7 @@
 
 ranger-like terminal file manager written in Rust
 
-![joshuto](https://repo.x-cmd.io/joshuto.svg)
+[![x-cmd/install — joshuto Code Quality Monitoring Repo Card](https://repo.x-cmd.io/joshuto.svg)](https://x-cmd.com/install/joshuto)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **16,036** lines of code across **213** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,728 · **Forks**: 165 · **Open issues**: 310 · **Contributors**: 79
+- **Stars**: 3,730 · **Forks**: 165 · **Open issues**: 310 · **Contributors**: 79
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **16,036** lines of code across **213** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-20 | 0 | 1 | 1 | 0 | 0 | 13 |
-| 90d | 2026-06-20 | 0 | 3 | 1 | 0 | 1 | 15 |
-| last180d | 2026-03-22 | 0 | 4 | 1 | 1 | 2 | 15 |
-| 360d | 2025-09-23 | 0 | 9 | 1 | 3 | 4 | 23 |
-| last720d | 2024-09-28 | 1 | 22 | 1 | 15 | 15 | 76 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-22 | 0 | 1 | 1 | 0 | 0 | 13 |
+| 90d | 2026-06-22 | 0 | 3 | 1 | 0 | 1 | 15 |
+| last180d | 2026-03-24 | 0 | 4 | 1 | 1 | 2 | 15 |
+| 360d | 2025-09-25 | 0 | 9 | 1 | 3 | 4 | 23 |
+| last720d | 2024-09-30 | 1 | 22 | 1 | 15 | 15 | 74 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for joshuto lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:28:04Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:27:20Z._
