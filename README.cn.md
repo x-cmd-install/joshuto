@@ -4,7 +4,7 @@
 
 ranger-like terminal file manager written in Rust
 
-[![x-cmd/install — joshuto Code Quality Monitoring Repo Card](https://repo.x-cmd.io/joshuto.svg?lang=zh)](https://x-cmd.com/install/joshuto)
+[![x-cmd/install — joshuto Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/joshuto.svg?lang=zh)](https://x-cmd.com/install/joshuto)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install joshuto
 
 ## 流行度
 
-- **Star**: 3,729 · **Fork**: 165 · **开放 issue**: 310 · **贡献者**: 79
+- **Star**: 3,731 · **Fork**: 165 · **开放 issue**: 310 · **贡献者**: 79
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install joshuto
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-24 | 0 | 1 | 1 | 0 | 0 | 13 |
-| 90d | 2026-06-24 | 0 | 3 | 1 | 0 | 1 | 15 |
-| last180d | 2026-03-26 | 0 | 4 | 1 | 1 | 2 | 15 |
-| 360d | 2025-09-27 | 0 | 9 | 1 | 3 | 4 | 23 |
-| last720d | 2024-10-02 | 1 | 22 | 1 | 15 | 15 | 74 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-25 | 0 | 1 | 1 | 0 | 0 | 13 |
+| 90d | 2026-06-25 | 0 | 3 | 1 | 0 | 1 | 15 |
+| last180d | 2026-03-27 | 0 | 4 | 1 | 1 | 2 | 15 |
+| 360d | 2025-09-28 | 0 | 9 | 1 | 3 | 4 | 23 |
+| last720d | 2024-10-03 | 1 | 22 | 1 | 15 | 15 | 74 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ joshuto 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:26:00Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:30:23Z._
