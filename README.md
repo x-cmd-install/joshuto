@@ -37,22 +37,22 @@ Total: **16,036** lines of code across **213** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,732 · **Forks**: 165 · **Open issues**: 310 · **Contributors**: 79
+- **Stars**: 3,732 · **Forks**: 165 · **Open issues**: 308 · **Contributors**: 79
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 241 · **Open PRs**: 7 · **Closed issues**: 215 · **Open issues**: 95 · **Commits**: 1460
+- **Releases**: 22 · **Merged PRs**: 241 · **Open PRs**: 7 · **Closed issues**: 215 · **Open issues**: 93 · **Commits**: 1460
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-30 | 0 | 1 | 1 | 0 | 0 | 14 |
-| 90d | 2026-06-30 | 0 | 3 | 1 | 0 | 1 | 16 |
-| last180d | 2026-04-01 | 0 | 4 | 1 | 1 | 2 | 16 |
-| 360d | 2025-10-03 | 0 | 9 | 1 | 3 | 4 | 24 |
-| last720d | 2024-10-08 | 1 | 22 | 1 | 15 | 15 | 75 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-31 | 0 | 1 | 1 | 0 | 0 | 14 |
+| 90d | 2026-07-01 | 0 | 3 | 1 | 0 | 1 | 16 |
+| last180d | 2026-04-02 | 0 | 4 | 1 | 1 | 2 | 16 |
+| 360d | 2025-10-04 | 0 | 9 | 1 | 3 | 4 | 24 |
+| last720d | 2024-10-09 | 1 | 22 | 1 | 15 | 15 | 75 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for joshuto lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:37:17Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:57:43Z._
