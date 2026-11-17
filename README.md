@@ -47,21 +47,12 @@ Total: **16,258** lines of code across **211** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 1 | 0 | 1 | 8 |
-| last60d | 2026-09-17 | 0 | 0 | 1 | 0 | 1 | 10 |
-| 90d | 2026-08-18 | 0 | 0 | 1 | 0 | 1 | 13 |
-| last180d | 2026-05-20 | 0 | 4 | 1 | 0 | 3 | 26 |
-| 360d | 2025-11-21 | 0 | 9 | 1 | 2 | 5 | 34 |
-| last720d | 2024-11-26 | 1 | 17 | 1 | 8 | 13 | 65 |
-
-## Distribution status
-
-Reported by **41** distros on [repology.org](https://repology.org/project/joshuto). **28** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.9.9` | ✅ latest |
+| 30d | 2026-10-18 | 0 | 0 | 1 | 0 | 1 | 8 |
+| last60d | 2026-09-18 | 0 | 0 | 1 | 0 | 1 | 10 |
+| 90d | 2026-08-19 | 0 | 0 | 1 | 0 | 1 | 13 |
+| last180d | 2026-05-21 | 0 | 4 | 1 | 0 | 3 | 26 |
+| 360d | 2025-11-22 | 0 | 9 | 1 | 2 | 5 | 34 |
+| last720d | 2024-11-27 | 1 | 17 | 1 | 8 | 13 | 65 |
 
 ## Improve this data
 
@@ -72,4 +63,4 @@ Install metadata for joshuto lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:37:44Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T11:05:42Z._
